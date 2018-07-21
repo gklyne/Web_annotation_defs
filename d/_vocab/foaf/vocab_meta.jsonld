@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/foaf",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "foaf",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://xmlns.com/foaf/0.1/",
+  "rdfs:comment": "# Friend-of-a-friend namespace",
+  "rdfs:label": "Friend-of-a-friend",
+  "rdfs:seeAlso": []
+}

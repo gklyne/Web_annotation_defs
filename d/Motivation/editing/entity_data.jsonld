@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Motivation/editing",
+  "@type": [
+    "ao:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "editing",
+  "annal:type": "ao:Motivation",
+  "annal:type_id": "Motivation",
+  "annal:uri": "oa:editing",
+  "rdfs:comment": "# Motivation: editing\r\n\r\nThe motivation for when the user intends to request a change or edit to the Target resource. For example an Annotation that requests a typo to be corrected.",
+  "rdfs:label": "Editing"
+}

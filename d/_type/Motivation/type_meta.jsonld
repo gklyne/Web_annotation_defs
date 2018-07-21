@@ -1,0 +1,26 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_type/Motivation",
+  "@type": [
+    "annal:Type"
+  ],
+  "annal:field_aliases": [],
+  "annal:id": "Motivation",
+  "annal:supertype_uri": [
+    {
+      "@id": "skos:Concept"
+    }
+  ],
+  "annal:type": "annal:Type",
+  "annal:type_id": "_type",
+  "annal:type_list": "_list/Motivation",
+  "annal:type_view": "_view/Motivation",
+  "annal:uri": "ao:Motivation",
+  "rdfs:comment": "# Motivation\r\n\r\nMotivation for an annotation; what purpose does it serve?\r\n\r\nSometimes used to indicate the kind of relationship between the annotation target and body.",
+  "rdfs:label": "Motivation"
+}

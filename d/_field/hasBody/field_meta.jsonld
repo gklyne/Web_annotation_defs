@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/hasBody",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "ao:Annotation",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Identifier",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "rdfs:Resource",
+  "annal:id": "hasBody",
+  "annal:placeholder": "(Body of annotation)",
+  "annal:property_uri": "ao:hasBody",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "A reference to a resource that contains information about or related to the annotation target.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Annotation body\r\n\r\nA reference to a resource that contains information about or related to the annotation target.\r\n\r\nThe nature of information provided, or how it is intended to be interpreted, may depend on the [Motivation]($BASE:_type/Motivation) associated with the annotation.",
+  "rdfs:label": "Body"
+}

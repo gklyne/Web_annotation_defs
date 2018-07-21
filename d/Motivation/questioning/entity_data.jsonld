@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Motivation/questioning",
+  "@type": [
+    "ao:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "questioning",
+  "annal:type": "ao:Motivation",
+  "annal:type_id": "Motivation",
+  "annal:uri": "oa:questioning",
+  "rdfs:comment": "# Motivation: questioning\r\n\r\nThe motivation for when the user intends to ask a question about the Target. For example to ask for assistance with a particular section of text, or question its veracity.",
+  "rdfs:label": "Questioning"
+}

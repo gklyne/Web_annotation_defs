@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/hasPurpose",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "_type/Motivation",
+  "annal:field_render_type": "_enum_render_type/Enum_optional",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "oa:Motivation",
+  "annal:id": "hasPurpose",
+  "annal:placeholder": "(Purpose of annotation body - refers to Motivation)",
+  "annal:property_uri": "ao:hasPurpose",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "The reason for the inclusion of the Textual Body within the Annotation. \r\nThere may be 0 or more purposes associated with a TextualBody.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Purpose of annotation body\r\n\r\nThe reason for the inclusion of the Textual Body within the Annotation. \r\nThere may be 0 or more purposes associated with a TextualBody.\r\n\r\n(Note: this property is applied to an annotation body, not the annotation itself.)\r\n",
+  "rdfs:label": "Annotation purpose"
+}

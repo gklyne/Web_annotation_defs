@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/dctypes",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "dctypes",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://purl.org/dc/dcmitype/",
+  "rdfs:comment": "# Dublin Core types namespace",
+  "rdfs:label": "Dublin Core types",
+  "rdfs:seeAlso": []
+}

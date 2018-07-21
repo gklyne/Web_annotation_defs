@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Motivation/highlighting",
+  "@type": [
+    "ao:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "highlighting",
+  "annal:type": "ao:Motivation",
+  "annal:type_id": "Motivation",
+  "annal:uri": "oa:highlighting",
+  "rdfs:comment": "# Motivation: highlighting\r\n\r\nThe motivation for when the user intends to highlight the Target resource or segment of it. For example to draw attention to the selected text that the annotator disagrees with.",
+  "rdfs:label": "Highlighting"
+}

@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/as",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "as",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://www.w3.org/ns/activitystreams#",
+  "rdfs:comment": "# Activity streams namespace",
+  "rdfs:label": "Activity streams",
+  "rdfs:seeAlso": []
+}

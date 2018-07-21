@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Motivation/tagging",
+  "@type": [
+    "ao:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "tagging",
+  "annal:type": "ao:Motivation",
+  "annal:type_id": "Motivation",
+  "annal:uri": "oa:tagging",
+  "rdfs:comment": "# Motivation: tagging\r\n\r\nThe motivation for when the user intends to associate a tag with the Target.",
+  "rdfs:label": "Tagging"
+}

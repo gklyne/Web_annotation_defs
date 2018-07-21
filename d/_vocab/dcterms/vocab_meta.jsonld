@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/dcterms",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "dcterms",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://purl.org/dc/terms/",
+  "rdfs:comment": "# Dublin Core terms namespace",
+  "rdfs:label": "Dublin Core terms",
+  "rdfs:seeAlso": []
+}

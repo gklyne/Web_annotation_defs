@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/skos",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "skos",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://www.w3.org/2004/02/skos/core#",
+  "rdfs:comment": "# Simple Knowledge Organisation System namespace",
+  "rdfs:label": "Simple Knowledge Organisation System",
+  "rdfs:seeAlso": []
+}

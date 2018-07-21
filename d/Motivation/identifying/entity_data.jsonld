@@ -1,0 +1,20 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "Motivation/identifying",
+  "@type": [
+    "ao:Motivation",
+    "skos:Concept",
+    "annal:EntityData"
+  ],
+  "annal:id": "identifying",
+  "annal:type": "ao:Motivation",
+  "annal:type_id": "Motivation",
+  "annal:uri": "oa:identifying",
+  "rdfs:comment": "# Motivation: identifying\r\n\r\nThe motivation for when the user intends to assign an identity to the Target. For example to associate the IRI that identifies a city with a mention of the city in a web page.\r\n",
+  "rdfs:label": "Identifying"
+}

@@ -1,0 +1,37 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Motivation",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Motivation",
+  "annal:default_view": "_view/Motivation",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Motivation",
+  "annal:list_entity_selector": "'ao:Motivation' in [@type]",
+  "annal:list_entity_type": "ao:Motivation",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Motivation_uri",
+      "annal:field_placement": "small:0,12;medium:3,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:0,12;medium:6,6"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Motivation list\r\n\r\nList entities of type [Motivation]($BASE:_type/Motivation).",
+  "rdfs:label": "Motivation list"
+}

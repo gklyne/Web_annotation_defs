@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_field/created",
+  "@type": [
+    "annal:Field"
+  ],
+  "annal:default_value": "",
+  "annal:field_entity_type": "ao:Annotation",
+  "annal:field_fields": [],
+  "annal:field_placement": "small:0,12",
+  "annal:field_ref_field": "",
+  "annal:field_ref_restriction": "",
+  "annal:field_ref_type": "",
+  "annal:field_render_type": "_enum_render_type/Text",
+  "annal:field_value_mode": "_enum_value_mode/Value_direct",
+  "annal:field_value_type": "annal:Text",
+  "annal:id": "created",
+  "annal:placeholder": "(creation date/time; e.g. 2018-07-21T14:00)",
+  "annal:property_uri": "dcterms:creator",
+  "annal:repeat_label_add": "Add",
+  "annal:repeat_label_delete": "Remove",
+  "annal:superproperty_uri": [],
+  "annal:tooltip": "Date/time at which annotation was created; e.g. 2018-07-21T14:00.",
+  "annal:type": "annal:Field",
+  "annal:type_id": "_field",
+  "rdfs:comment": "# Annotation creation time\r\n\r\nDate/time at which annotation was created.  Preferably uses ISO8601/RFC3999 format; e.g. 2018-07-21T14:00.",
+  "rdfs:label": "Annotation creation time"
+}

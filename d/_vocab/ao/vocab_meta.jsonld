@@ -1,0 +1,19 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_vocab/ao",
+  "@type": [
+    "annal:Vocabulary"
+  ],
+  "annal:id": "ao",
+  "annal:type": "annal:Vocabulary",
+  "annal:type_id": "_vocab",
+  "annal:uri": "http://www.w3.org/ns/oa#",
+  "rdfs:comment": "# Web Annotations namespace",
+  "rdfs:label": "Web annotations",
+  "rdfs:seeAlso": []
+}
