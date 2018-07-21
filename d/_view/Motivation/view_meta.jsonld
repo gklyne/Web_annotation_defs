@@ -14,7 +14,7 @@
   "annal:type": "annal:View",
   "annal:type_id": "_view",
   "annal:uri": "annal:display/Default_view",
-  "annal:view_entity_type": "ao:Motivation",
+  "annal:view_entity_type": "oa:Motivation",
   "annal:view_fields": [
     {
       "annal:field_id": "_field/Entity_id",

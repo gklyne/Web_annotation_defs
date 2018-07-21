@@ -21,7 +21,7 @@
   "annal:field_value_type": "oa:Motivation",
   "annal:id": "hasPurpose",
   "annal:placeholder": "(Purpose of annotation body - refers to Motivation)",
-  "annal:property_uri": "ao:hasPurpose",
+  "annal:property_uri": "oa:hasPurpose",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],

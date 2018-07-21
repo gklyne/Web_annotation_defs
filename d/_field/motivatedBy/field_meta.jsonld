@@ -21,7 +21,7 @@
   "annal:field_value_type": "oa:Motivation",
   "annal:id": "motivatedBy",
   "annal:placeholder": "(Motivation of annotation)",
-  "annal:property_uri": "ao:motivatedBy",
+  "annal:property_uri": "oa:motivatedBy",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],

@@ -14,9 +14,9 @@
   "annal:supertype_uri": [],
   "annal:type": "annal:Type",
   "annal:type_id": "_type",
-  "annal:type_list": "_list/Default_list",
-  "annal:type_view": "_view/Default_view",
-  "annal:uri": "ao:Annotation",
+  "annal:type_list": "_list/Annotation",
+  "annal:type_view": "_view/Annotation",
+  "annal:uri": "oa:Annotation",
   "rdfs:comment": "# Web Annotation\r\n\r\nA Web Annotation node.",
   "rdfs:label": "Annotation"
 }

@@ -5,11 +5,11 @@
     },
     "../../coll_context.jsonld"
   ],
-  "@id": "_vocab/ao",
+  "@id": "_vocab/oa",
   "@type": [
     "annal:Vocabulary"
   ],
-  "annal:id": "ao",
+  "annal:id": "oa",
   "annal:type": "annal:Vocabulary",
   "annal:type_id": "_vocab",
   "annal:uri": "http://www.w3.org/ns/oa#",

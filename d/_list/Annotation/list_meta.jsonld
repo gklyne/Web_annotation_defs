@@ -1,0 +1,33 @@
+{
+  "@context": [
+    {
+      "@base": "../../"
+    },
+    "../../coll_context.jsonld"
+  ],
+  "@id": "_list/Annotation",
+  "@type": [
+    "annal:List"
+  ],
+  "annal:default_type": "_type/Annotation",
+  "annal:default_view": "_view/Annotation",
+  "annal:display_type": "_enum_list_type/List",
+  "annal:id": "Annotation",
+  "annal:list_entity_selector": "'oa:Annotation' in [@type]",
+  "annal:list_entity_type": "oa:Annotation",
+  "annal:list_fields": [
+    {
+      "annal:field_id": "_field/Entity_id",
+      "annal:field_placement": "small:0,3"
+    },
+    {
+      "annal:field_id": "_field/Entity_label",
+      "annal:field_placement": "small:3,9"
+    }
+  ],
+  "annal:type": "annal:List",
+  "annal:type_id": "_list",
+  "annal:uri": "annal:display/Default_list",
+  "rdfs:comment": "# Annotation list\r\n\r\nList entities of type [Annotation]($BASE:_type/Annotation).",
+  "rdfs:label": "Annotation list"
+}

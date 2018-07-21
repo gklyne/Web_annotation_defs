@@ -7,12 +7,11 @@
   ],
   "@id": "Motivation/classifying",
   "@type": [
-    "ao:Motivation",
-    "skos:Concept",
+    "oa:Motivation",
     "annal:EntityData"
   ],
   "annal:id": "classifying",
-  "annal:type": "ao:Motivation",
+  "annal:type": "oa:Motivation",
   "annal:type_id": "Motivation",
   "annal:uri": "oa:classifying",
   "rdfs:comment": "# Motivation: classifying\r\n\r\nThe motivation for when the user intends to classify the Target as something. For example to classify an image as a portrait.",

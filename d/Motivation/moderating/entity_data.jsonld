@@ -7,12 +7,11 @@
   ],
   "@id": "Motivation/moderating",
   "@type": [
-    "ao:Motivation",
-    "skos:Concept",
+    "oa:Motivation",
     "annal:EntityData"
   ],
   "annal:id": "moderating",
-  "annal:type": "ao:Motivation",
+  "annal:type": "oa:Motivation",
   "annal:type_id": "Motivation",
   "annal:uri": "oa:moderating",
   "rdfs:comment": "# Motivation: moderating\r\n\r\nThe motivation for when the user intends to assign some value or quality to the Target. For example annotating an Annotation to moderate it up in a trust network or threaded discussion.",

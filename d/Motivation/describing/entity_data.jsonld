@@ -7,12 +7,11 @@
   ],
   "@id": "Motivation/describing",
   "@type": [
-    "ao:Motivation",
-    "skos:Concept",
+    "oa:Motivation",
     "annal:EntityData"
   ],
   "annal:id": "describing",
-  "annal:type": "ao:Motivation",
+  "annal:type": "oa:Motivation",
   "annal:type_id": "Motivation",
   "annal:uri": "oa:describing",
   "rdfs:comment": "# Motivation: describing\r\n\r\nThe motivation for when the user intends to describe the Target, as opposed to (for example) a comment about it. For example describing the above PDF's contents, rather than commenting on their accuracy.",

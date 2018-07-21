@@ -13,8 +13,8 @@
   "annal:default_view": "_view/Motivation",
   "annal:display_type": "_enum_list_type/List",
   "annal:id": "Motivation",
-  "annal:list_entity_selector": "'ao:Motivation' in [@type]",
-  "annal:list_entity_type": "ao:Motivation",
+  "annal:list_entity_selector": "'oa:Motivation' in [@type]",
+  "annal:list_entity_type": "oa:Motivation",
   "annal:list_fields": [
     {
       "annal:field_id": "_field/Entity_id",

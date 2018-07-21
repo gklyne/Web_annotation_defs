@@ -7,12 +7,11 @@
   ],
   "@id": "Motivation/replying",
   "@type": [
-    "ao:Motivation",
-    "skos:Concept",
+    "oa:Motivation",
     "annal:EntityData"
   ],
   "annal:id": "replying",
-  "annal:type": "ao:Motivation",
+  "annal:type": "oa:Motivation",
   "annal:type_id": "Motivation",
   "annal:uri": "oa:replying",
   "rdfs:comment": "# Motivation: replying\r\n\r\nThe motivation for when the user intends to reply to a previous statement, either an Annotation or another resource. For example providing the assistance requested in the above.",

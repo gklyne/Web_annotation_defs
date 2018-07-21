@@ -7,12 +7,11 @@
   ],
   "@id": "Motivation/bookmarking",
   "@type": [
-    "ao:Motivation",
-    "skos:Concept",
+    "oa:Motivation",
     "annal:EntityData"
   ],
   "annal:id": "bookmarking",
-  "annal:type": "ao:Motivation",
+  "annal:type": "oa:Motivation",
   "annal:type_id": "Motivation",
   "annal:uri": "oa:bookmarking",
   "rdfs:comment": "# Motivation: bookmarking\r\n\r\nThe motivation for when the user intends to create a bookmark to the Target or part thereof. For example an Annotation that bookmarks the point in a text where the reader finished reading.",
