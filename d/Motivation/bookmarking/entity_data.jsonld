@@ -8,6 +8,7 @@
   "@id": "Motivation/bookmarking",
   "@type": [
     "oa:Motivation",
+    "skos:Concept",
     "annal:EntityData"
   ],
   "annal:id": "bookmarking",

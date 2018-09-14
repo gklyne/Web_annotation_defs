@@ -10,9 +10,11 @@
     "annal:Collection"
   ],
   "annal:id": "Web_annotation_defs",
+  "annal:inherit_from": "_coll/Concept_defs",
+  "annal:meta_comment": "",
   "annal:software_version": "0.5.9",
   "annal:type": "annal:Collection",
   "annal:type_id": "_coll",
-  "rdfs:comment": "",
+  "rdfs:comment": "Web annotation definitions",
   "rdfs:label": "Web annotation definitions"
 }

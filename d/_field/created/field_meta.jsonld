@@ -21,7 +21,7 @@
   "annal:field_value_type": "annal:Text",
   "annal:id": "created",
   "annal:placeholder": "(creation date/time; e.g. 2018-07-21T14:00)",
-  "annal:property_uri": "dcterms:creator",
+  "annal:property_uri": "dcterms:created",
   "annal:repeat_label_add": "Add",
   "annal:repeat_label_delete": "Remove",
   "annal:superproperty_uri": [],

@@ -8,6 +8,7 @@
   "@id": "Motivation/questioning",
   "@type": [
     "oa:Motivation",
+    "skos:Concept",
     "annal:EntityData"
   ],
   "annal:id": "questioning",

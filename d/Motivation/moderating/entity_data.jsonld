@@ -8,6 +8,7 @@
   "@id": "Motivation/moderating",
   "@type": [
     "oa:Motivation",
+    "skos:Concept",
     "annal:EntityData"
   ],
   "annal:id": "moderating",
